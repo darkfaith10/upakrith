@@ -1,16 +1,4 @@
-# finalproject
+# Emergency Response App: Upakrith
+Introducing an innovative Android application designed to provide vital information and guidance on performing essential medical emergency actions, such as CPR and first aid. Our app equips users with the knowledge and skills to assist individuals in urgent situations. By utilizing our application, individuals can quickly and effectively respond to emergencies and even alert nearby professionals through location sharing.
+With our app, users can easily indicate their current location, which will be transmitted to nearby devices theough mail. This feature ensures that a trained professional in the vicinity can promptly respond to the emergency and offer immediate assistance. Additionally, the app automatically shares the user's location with the nearest hospital, enabling them to dispatch an ambulance promptly.
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
