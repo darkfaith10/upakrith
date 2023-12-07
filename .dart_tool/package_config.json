@@ -1,0 +1,440 @@
+{
+  "configVersion": 2,
+  "packages": [
+    {
+      "name": "async",
+      "rootUri": "file:///Users/vijaykumarsingh/.pub-cache/hosted/pub.dev/async-2.11.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.18"
+    },
+    {
+      "name": "basic_utils",
+      "rootUri": "file:///Users/vijaykumarsingh/.pub-cache/hosted/pub.dev/basic_utils-5.7.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.18"
+    },
+    {
+      "name": "boolean_selector",
+      "rootUri": "file:///Users/vijaykumarsingh/.pub-cache/hosted/pub.dev/boolean_selector-2.1.1",
+      "packageUri": "lib/",
+      "languageVersion": "2.17"
+    },
+    {
+      "name": "bson",
+      "rootUri": "file:///Users/vijaykumarsingh/.pub-cache/hosted/pub.dev/bson-4.0.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "buffer",
+      "rootUri": "file:///Users/vijaykumarsingh/.pub-cache/hosted/pub.dev/buffer-1.2.2",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "characters",
+      "rootUri": "file:///Users/vijaykumarsingh/.pub-cache/hosted/pub.dev/characters-1.3.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "clock",
+      "rootUri": "file:///Users/vijaykumarsingh/.pub-cache/hosted/pub.dev/clock-1.1.1",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "collection",
+      "rootUri": "file:///Users/vijaykumarsingh/.pub-cache/hosted/pub.dev/collection-1.17.2",
+      "packageUri": "lib/",
+      "languageVersion": "2.18"
+    },
+    {
+      "name": "convert",
+      "rootUri": "file:///Users/vijaykumarsingh/.pub-cache/hosted/pub.dev/convert-3.1.1",
+      "packageUri": "lib/",
+      "languageVersion": "2.18"
+    },
+    {
+      "name": "crypto",
+      "rootUri": "file:///Users/vijaykumarsingh/.pub-cache/hosted/pub.dev/crypto-3.0.3",
+      "packageUri": "lib/",
+      "languageVersion": "2.19"
+    },
+    {
+      "name": "cupertino_icons",
+      "rootUri": "file:///Users/vijaykumarsingh/.pub-cache/hosted/pub.dev/cupertino_icons-1.0.6",
+      "packageUri": "lib/",
+      "languageVersion": "2.19"
+    },
+    {
+      "name": "decimal",
+      "rootUri": "file:///Users/vijaykumarsingh/.pub-cache/hosted/pub.dev/decimal-2.3.3",
+      "packageUri": "lib/",
+      "languageVersion": "2.14"
+    },
+    {
+      "name": "fake_async",
+      "rootUri": "file:///Users/vijaykumarsingh/.pub-cache/hosted/pub.dev/fake_async-1.3.1",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "fixnum",
+      "rootUri": "file:///Users/vijaykumarsingh/.pub-cache/hosted/pub.dev/fixnum-1.1.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.19"
+    },
+    {
+      "name": "flutter",
+      "rootUri": "file:///Users/vijaykumarsingh/Developer/flutter/packages/flutter",
+      "packageUri": "lib/",
+      "languageVersion": "3.0"
+    },
+    {
+      "name": "flutter_form_builder",
+      "rootUri": "file:///Users/vijaykumarsingh/.pub-cache/hosted/pub.dev/flutter_form_builder-9.1.1",
+      "packageUri": "lib/",
+      "languageVersion": "3.0"
+    },
+    {
+      "name": "flutter_lints",
+      "rootUri": "file:///Users/vijaykumarsingh/.pub-cache/hosted/pub.dev/flutter_lints-3.0.1",
+      "packageUri": "lib/",
+      "languageVersion": "3.0"
+    },
+    {
+      "name": "flutter_test",
+      "rootUri": "file:///Users/vijaykumarsingh/Developer/flutter/packages/flutter_test",
+      "packageUri": "lib/",
+      "languageVersion": "3.0"
+    },
+    {
+      "name": "flutter_tts",
+      "rootUri": "file:///Users/vijaykumarsingh/.pub-cache/hosted/pub.dev/flutter_tts-3.8.5",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "flutter_web_plugins",
+      "rootUri": "file:///Users/vijaykumarsingh/Developer/flutter/packages/flutter_web_plugins",
+      "packageUri": "lib/",
+      "languageVersion": "3.0"
+    },
+    {
+      "name": "geolocator",
+      "rootUri": "file:///Users/vijaykumarsingh/.pub-cache/hosted/pub.dev/geolocator-10.1.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.15"
+    },
+    {
+      "name": "geolocator_android",
+      "rootUri": "file:///Users/vijaykumarsingh/.pub-cache/hosted/pub.dev/geolocator_android-4.3.1",
+      "packageUri": "lib/",
+      "languageVersion": "2.15"
+    },
+    {
+      "name": "geolocator_apple",
+      "rootUri": "file:///Users/vijaykumarsingh/.pub-cache/hosted/pub.dev/geolocator_apple-2.3.2",
+      "packageUri": "lib/",
+      "languageVersion": "2.15"
+    },
+    {
+      "name": "geolocator_platform_interface",
+      "rootUri": "file:///Users/vijaykumarsingh/.pub-cache/hosted/pub.dev/geolocator_platform_interface-4.2.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.15"
+    },
+    {
+      "name": "geolocator_web",
+      "rootUri": "file:///Users/vijaykumarsingh/.pub-cache/hosted/pub.dev/geolocator_web-2.2.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.15"
+    },
+    {
+      "name": "geolocator_windows",
+      "rootUri": "file:///Users/vijaykumarsingh/.pub-cache/hosted/pub.dev/geolocator_windows-0.2.2",
+      "packageUri": "lib/",
+      "languageVersion": "2.15"
+    },
+    {
+      "name": "http",
+      "rootUri": "file:///Users/vijaykumarsingh/.pub-cache/hosted/pub.dev/http-1.1.0",
+      "packageUri": "lib/",
+      "languageVersion": "3.0"
+    },
+    {
+      "name": "http_parser",
+      "rootUri": "file:///Users/vijaykumarsingh/.pub-cache/hosted/pub.dev/http_parser-4.0.2",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "intl",
+      "rootUri": "file:///Users/vijaykumarsingh/.pub-cache/hosted/pub.dev/intl-0.18.1",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "js",
+      "rootUri": "file:///Users/vijaykumarsingh/.pub-cache/hosted/pub.dev/js-0.6.7",
+      "packageUri": "lib/",
+      "languageVersion": "2.19"
+    },
+    {
+      "name": "json_annotation",
+      "rootUri": "file:///Users/vijaykumarsingh/.pub-cache/hosted/pub.dev/json_annotation-4.8.1",
+      "packageUri": "lib/",
+      "languageVersion": "2.19"
+    },
+    {
+      "name": "lints",
+      "rootUri": "file:///Users/vijaykumarsingh/.pub-cache/hosted/pub.dev/lints-3.0.0",
+      "packageUri": "lib/",
+      "languageVersion": "3.0"
+    },
+    {
+      "name": "logging",
+      "rootUri": "file:///Users/vijaykumarsingh/.pub-cache/hosted/pub.dev/logging-1.2.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.19"
+    },
+    {
+      "name": "mailer",
+      "rootUri": "file:///Users/vijaykumarsingh/.pub-cache/hosted/pub.dev/mailer-6.0.1",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "matcher",
+      "rootUri": "file:///Users/vijaykumarsingh/.pub-cache/hosted/pub.dev/matcher-0.12.16",
+      "packageUri": "lib/",
+      "languageVersion": "2.18"
+    },
+    {
+      "name": "material_color_utilities",
+      "rootUri": "file:///Users/vijaykumarsingh/.pub-cache/hosted/pub.dev/material_color_utilities-0.5.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.17"
+    },
+    {
+      "name": "meta",
+      "rootUri": "file:///Users/vijaykumarsingh/.pub-cache/hosted/pub.dev/meta-1.9.1",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "mime",
+      "rootUri": "file:///Users/vijaykumarsingh/.pub-cache/hosted/pub.dev/mime-1.0.4",
+      "packageUri": "lib/",
+      "languageVersion": "2.18"
+    },
+    {
+      "name": "mongo_dart",
+      "rootUri": "file:///Users/vijaykumarsingh/.pub-cache/hosted/pub.dev/mongo_dart-0.9.3",
+      "packageUri": "lib/",
+      "languageVersion": "2.15"
+    },
+    {
+      "name": "mongo_dart_query",
+      "rootUri": "file:///Users/vijaykumarsingh/.pub-cache/hosted/pub.dev/mongo_dart_query-4.0.5",
+      "packageUri": "lib/",
+      "languageVersion": "2.15"
+    },
+    {
+      "name": "packages_extensions",
+      "rootUri": "file:///Users/vijaykumarsingh/.pub-cache/hosted/pub.dev/packages_extensions-0.1.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "path",
+      "rootUri": "file:///Users/vijaykumarsingh/.pub-cache/hosted/pub.dev/path-1.8.3",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "pedantic",
+      "rootUri": "file:///Users/vijaykumarsingh/.pub-cache/hosted/pub.dev/pedantic-1.11.1",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "plugin_platform_interface",
+      "rootUri": "file:///Users/vijaykumarsingh/.pub-cache/hosted/pub.dev/plugin_platform_interface-2.1.7",
+      "packageUri": "lib/",
+      "languageVersion": "3.0"
+    },
+    {
+      "name": "pointycastle",
+      "rootUri": "file:///Users/vijaykumarsingh/.pub-cache/hosted/pub.dev/pointycastle-3.7.3",
+      "packageUri": "lib/",
+      "languageVersion": "2.14"
+    },
+    {
+      "name": "pool",
+      "rootUri": "file:///Users/vijaykumarsingh/.pub-cache/hosted/pub.dev/pool-1.5.1",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "power_extensions",
+      "rootUri": "file:///Users/vijaykumarsingh/.pub-cache/hosted/pub.dev/power_extensions-0.2.2",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "rational",
+      "rootUri": "file:///Users/vijaykumarsingh/.pub-cache/hosted/pub.dev/rational-2.2.2",
+      "packageUri": "lib/",
+      "languageVersion": "2.14"
+    },
+    {
+      "name": "sasl_scram",
+      "rootUri": "file:///Users/vijaykumarsingh/.pub-cache/hosted/pub.dev/sasl_scram-0.1.1",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "saslprep",
+      "rootUri": "file:///Users/vijaykumarsingh/.pub-cache/hosted/pub.dev/saslprep-1.0.2",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "sky_engine",
+      "rootUri": "file:///Users/vijaykumarsingh/Developer/flutter/bin/cache/pkg/sky_engine",
+      "packageUri": "lib/",
+      "languageVersion": "3.0"
+    },
+    {
+      "name": "source_span",
+      "rootUri": "file:///Users/vijaykumarsingh/.pub-cache/hosted/pub.dev/source_span-1.10.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.18"
+    },
+    {
+      "name": "stack_trace",
+      "rootUri": "file:///Users/vijaykumarsingh/.pub-cache/hosted/pub.dev/stack_trace-1.11.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.18"
+    },
+    {
+      "name": "stream_channel",
+      "rootUri": "file:///Users/vijaykumarsingh/.pub-cache/hosted/pub.dev/stream_channel-2.1.1",
+      "packageUri": "lib/",
+      "languageVersion": "2.14"
+    },
+    {
+      "name": "string_scanner",
+      "rootUri": "file:///Users/vijaykumarsingh/.pub-cache/hosted/pub.dev/string_scanner-1.2.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.18"
+    },
+    {
+      "name": "term_glyph",
+      "rootUri": "file:///Users/vijaykumarsingh/.pub-cache/hosted/pub.dev/term_glyph-1.2.1",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "test_api",
+      "rootUri": "file:///Users/vijaykumarsingh/.pub-cache/hosted/pub.dev/test_api-0.6.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.18"
+    },
+    {
+      "name": "typed_data",
+      "rootUri": "file:///Users/vijaykumarsingh/.pub-cache/hosted/pub.dev/typed_data-1.3.2",
+      "packageUri": "lib/",
+      "languageVersion": "2.17"
+    },
+    {
+      "name": "unorm_dart",
+      "rootUri": "file:///Users/vijaykumarsingh/.pub-cache/hosted/pub.dev/unorm_dart-0.2.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "url_launcher",
+      "rootUri": "file:///Users/vijaykumarsingh/.pub-cache/hosted/pub.dev/url_launcher-6.2.1",
+      "packageUri": "lib/",
+      "languageVersion": "3.1"
+    },
+    {
+      "name": "url_launcher_android",
+      "rootUri": "file:///Users/vijaykumarsingh/.pub-cache/hosted/pub.dev/url_launcher_android-6.2.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.19"
+    },
+    {
+      "name": "url_launcher_ios",
+      "rootUri": "file:///Users/vijaykumarsingh/.pub-cache/hosted/pub.dev/url_launcher_ios-6.2.1",
+      "packageUri": "lib/",
+      "languageVersion": "3.0"
+    },
+    {
+      "name": "url_launcher_linux",
+      "rootUri": "file:///Users/vijaykumarsingh/.pub-cache/hosted/pub.dev/url_launcher_linux-3.1.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.19"
+    },
+    {
+      "name": "url_launcher_macos",
+      "rootUri": "file:///Users/vijaykumarsingh/.pub-cache/hosted/pub.dev/url_launcher_macos-3.1.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.19"
+    },
+    {
+      "name": "url_launcher_platform_interface",
+      "rootUri": "file:///Users/vijaykumarsingh/.pub-cache/hosted/pub.dev/url_launcher_platform_interface-2.2.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.19"
+    },
+    {
+      "name": "url_launcher_web",
+      "rootUri": "file:///Users/vijaykumarsingh/.pub-cache/hosted/pub.dev/url_launcher_web-2.2.0",
+      "packageUri": "lib/",
+      "languageVersion": "3.1"
+    },
+    {
+      "name": "url_launcher_windows",
+      "rootUri": "file:///Users/vijaykumarsingh/.pub-cache/hosted/pub.dev/url_launcher_windows-3.1.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.19"
+    },
+    {
+      "name": "uuid",
+      "rootUri": "file:///Users/vijaykumarsingh/.pub-cache/hosted/pub.dev/uuid-3.0.7",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "vector_math",
+      "rootUri": "file:///Users/vijaykumarsingh/.pub-cache/hosted/pub.dev/vector_math-2.1.4",
+      "packageUri": "lib/",
+      "languageVersion": "2.14"
+    },
+    {
+      "name": "vy_string_utils",
+      "rootUri": "file:///Users/vijaykumarsingh/.pub-cache/hosted/pub.dev/vy_string_utils-0.4.5",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "web",
+      "rootUri": "file:///Users/vijaykumarsingh/.pub-cache/hosted/pub.dev/web-0.1.4-beta",
+      "packageUri": "lib/",
+      "languageVersion": "3.1"
+    },
+    {
+      "name": "finalproject",
+      "rootUri": "../",
+      "packageUri": "lib/",
+      "languageVersion": "3.1"
+    }
+  ],
+  "generated": "2023-11-30T02:08:58.064340Z",
+  "generator": "pub",
+  "generatorVersion": "3.1.4"
+}
